@@ -1,1 +1,4 @@
-# 📊 Comparisons of popular generative AI models and frameworks
+# 📊 Comparisons of popular generative AI models, tecnhiques and frameworks
+
+## RAG
+- 
