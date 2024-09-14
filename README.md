@@ -33,10 +33,10 @@ If you want to add to the repository or find any issues, please feel free to rai
 To cite this guide, use the below format:
 ```
 @article{srgrace_generative_ai_compass,
+  title = {Generative AI Compass},
   author = {Verma, Sourav},
   journal = {https://github.com/SrGrace/generative-ai-compass},
-  month = {01},
-  title = {{Generative AI Compass}},
+  month = {09},
   year = {2024}
 }
 ```
