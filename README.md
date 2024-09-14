@@ -1,6 +1,14 @@
 # 🧭 Generative AI Compass
 Your comprehensive guide to navigating the world of generative artificial intelligence.
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+![GitHub Forks](https://img.shields.io/github/forks/SrGrace/generative-ai-compass?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/SrGrace/generative-ai-compass?style=social)
+![GitHub Contributors](https://img.shields.io/github/contributors/SrGrace/generative-ai-compass?style=social)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srgrace)
+
+
 ## 📚 Description
 
 The Generative AI Compass is a curated repository of resources, tutorials, and best practices for understanding and working with generative AI technologies. Whether you're a beginner taking your first steps into the world of AI or an experienced practitioner looking to stay updated with the latest advancements, this repository serves as your reliable guide.
