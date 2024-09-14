@@ -18,9 +18,9 @@ Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311
   - LLM Evaluation (March 2024): [A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3641289)
 
 ## Weekly 
-  - September 2024 ([Click here]())
-    - [Week - 1/4]()
-    - [Week - 2/4]()
-    - [Week - 3/4]()
-    - [Week - 4/4]()
-- 
+  - September 2024 ([Click here for the month](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md))
+    - [Week - 1/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md#week-14)
+    - [Week - 2/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md#week-24)
+    - [Week - 3/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md#week-34)
+    - [Week - 4/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md#week-44)
+ 
