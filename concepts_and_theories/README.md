@@ -1,4 +1,4 @@
-# Generative AI Concepts and Theories with Resources
+# Foundational Concepts and Theories behind Generative AI with Resources
 
 ## Fundamental Concepts
 
