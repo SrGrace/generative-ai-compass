@@ -32,13 +32,12 @@ The Generative AI Compass is a curated repository of resources, tutorials, and b
 - 🔬 Researchers exploring the frontiers of AI capabilities
 - 🌱 Enthusiasts curious about the potential of generative AI
 
-Join us on this journey through the fascinating landscape of generative AI. Let the Generative AI Compass be your guide to creating, innovating, and pushing the boundaries of what's possible with artificial intelligence.
 
 ## ✏️ Contributing
 
 If you want to add to the repository or find any issues, please feel free to raise a PR and ensure correct placement within the relevant section or category.
 
-## 📌 Cite Us
+## 📌 Citing
 
 To cite this guide, use the below format:
 ```
