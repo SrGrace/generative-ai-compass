@@ -15,13 +15,15 @@ The Generative AI Compass is a curated repository of resources, tutorials, and b
 
 ## 📋 What's Inside
 
-- 📚 Foundational concepts and theories behind generative AI [Link]
-- 🛠️ Practical tutorials and hands-on examples [Link]
-- 🗺️ Roadmaps for different generative AI specializations [Link]
-- 📊 Comparisons of popular generative AI models and frameworks [Link]
-- 🚀 Best practices for implementing generative AI in real-world projects [Link]
-- 🔮 Exploration of cutting-edge research and future trends [Link]
-- 🤝 Community-contributed resources and case studies [Link]
+- 📚 Foundational concepts and theories behind Generative AI ([Click here](https://github.com/SrGrace/generative-ai-compass/tree/main/concepts_and_theories))
+  - Interview Preps ([Click here](https://github.com/SrGrace/generative-ai-compass/tree/main/concepts_and_theories))
+- 🛠️ Practical tutorials and hands-on examples ([Click here](https://github.com/SrGrace/generative-ai-compass/tree/main/practical_tutorials))
+  - 🎓 Courses ([Click here](https://github.com/SrGrace/generative-ai-compass/tree/main/practical_tutorials))
+- 🗺️ Roadmaps for different generative AI specializations ([Click here](https://github.com/SrGrace/generative-ai-compass/tree/main/gen-ai-roadmap))
+- 📊 Comparisons of popular generative AI models and frameworks ([Click here](https://github.com/SrGrace/generative-ai-compass/tree/main/comparative_studies))
+- 🚀 Best practices for implementing generative AI in real-world projects([Click here](https://github.com/SrGrace/generative-ai-compass/tree/main/best_practices))
+- 🔮 Exploration of cutting-edge research and future trends ([Click here](https://github.com/SrGrace/generative-ai-compass/tree/main/research_and_future_trends))
+- 🤝 Community-contributed resources and case studies ([Click here](https://github.com/SrGrace/generative-ai-compass/tree/main/community_contributed_resources))
 
 ## 👥 Who Is This For
 
