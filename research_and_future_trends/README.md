@@ -1,4 +1,4 @@
-# 🔮 Exploration of cutting-edge research and future trends
+# 🔮 Exploration of cutting-edge Gen AI research and future trends
 
 ## Technology 
   - RAG: [RAG (Retrieval-Augmented Generation)](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/rag_papers.md)
@@ -19,7 +19,7 @@ Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311
   - Graph RAG Survey (Sept 2024): [Graph Retrieval-Augmented Generation: A Survey](https://www.arxiv.org/pdf/2408.08921)
   - 
 
-## Weekly 
+## Weekly Papers (Best) (*updated at the end of every week)
   - September 2024 ([Click here for the month](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md))
     - [Week - 1/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md#week-14)
     - [Week - 2/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md#week-24)
