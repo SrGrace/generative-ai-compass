@@ -17,6 +17,7 @@ Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311
   - Multimodal Models (Apr 2024): [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549)
   - LLM Evaluation (March 2024): [A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3641289)
   - Graph RAG Survey (Sept 2024): [Graph Retrieval-Augmented Generation: A Survey](https://www.arxiv.org/pdf/2408.08921)
+  - 
 
 ## Weekly 
   - September 2024 ([Click here for the month](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md))
