@@ -16,3 +16,5 @@
 ## Comprehensive LLM Code Repositories
 - [LLM PlayLab](https://github.com/Sakil786/LLM-PlayLab) by Sakil786
   - This playlab encompasses a multitude of projects crafted through the utilization of Large Language Models.
+- [Parlance Labs - Educational Resources](https://parlance-labs.com/education/) by parlance labs
+  - Hear from practitioners on a wide range of topics on LLMs, including RAG, evaluation, applications, fine-tuning and prompt engineering.  
