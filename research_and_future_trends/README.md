@@ -9,6 +9,7 @@
   - Prompt Engineering (July 2024): [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
   - Retrieval-Augmented Generation (RAG) (Aug 2024): [The Survey of Retrieval-Augmented Text Generation in Large
 Language Models](https://arxiv.org/pdf/2404.10981)
+  - Retrieval-Augmented Generation (RAG) Survey (March 2024): [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)
   - Hallucinations (Nov 2023): [A Survey on Hallucination in Large Language Models:
 Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311.05232)
   - Parameter Efficient Fine-Tuning (July 2024): [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/pdf/2403.14608)
