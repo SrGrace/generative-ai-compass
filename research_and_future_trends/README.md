@@ -2,6 +2,7 @@
 
 ## Technology 
   - RAG: [RAG (Retrieval-Augmented Generation)](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/rag_papers.md)
+  - AI Agents: [Agentic AI](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/agentic_ai_papers.md)
   - 
 
 ## Survey Papers (updated - Sept 2024)
