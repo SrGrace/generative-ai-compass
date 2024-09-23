@@ -26,7 +26,8 @@
 ## Week 3/4
 | Title | Summary | Topics |
 | --- | --- | --- |
-| []() |  | |
+| [Moshi: a speech-text foundation model for real-time dialogue](https://kyutai.org/Moshi.pdf) | The paper introduces Moshi: a speech-text foundation model and full-duplex spoken dialogue framework. <br> they present several components of the systems: <br> &nbsp; - Helium is a 7B parameter text LLM <br> &nbsp; -  Mimi is a semantic-acoustic neural audio code with state-of-the-art performance on audio quality  <br> &nbsp; - a hierarchical multi-stream architecture that can generate arbitrary conversation in a speech-to-speech manner. <br><br> &nbsp; - git repo: https://t.co/PFak47FMrm <br> &nbsp; - HuggingFace: https://t.co/bqG4IS0ntg| Speech-text Foundation model |
+|  |  |  |
 |  |  |  |
 
 
