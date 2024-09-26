@@ -20,6 +20,7 @@ Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311
   - LLM Evaluation (March 2024): [A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3641289)
   - Graph RAG Survey (Sept 2024): [Graph Retrieval-Augmented Generation: A Survey](https://www.arxiv.org/pdf/2408.08921)
   - Video Foundation models' Survey (May 2024): [Foundation Models for Video Understanding: A Survey](https://arxiv.org/pdf/2405.03770)
+  - Small Language Models (SLMs) Survey (Sept 2024): [SMALL LANGUAGE MODELS: SURVEY, MEASUREMENTS, AND INSIGHTS](https://arxiv.org/pdf/2409.15790)
   - 
 
 ## Weekly Papers (Best) (*updated at the end of every week)
