@@ -1,7 +1,7 @@
 # Frequently asked Generative AI Interview Questions and their Answers
 
 ## Technical Foundation
-1. Explain how the self-attention layer works in Transformer models.
+1. **Explain how the self-attention layer works in Transformer models.**
    
 - Answer:
   
@@ -19,13 +19,14 @@
     
       $$sum_{z1} = \sum_{j=1}^{len(seq)} x_{1j}*v_j$$
     
-
-2. Describe the backpropagation algorithm.
+---
+2. **Describe the backpropagation algorithm.**
    
 - Answer
 
   Backpropagation is an algorithm used for training neural networks. It involves computing the gradient of the loss function with respect to each weight by the chain rule, iterating backward from the output layer to the input layer. The steps are: feedforward the input to get the output, compute the loss, propagate the error back through the network by calculating the derivative of the loss with respect to each weight, and update the weights using gradient descent.
 
+---
 3.
 
 ## Large Language Models
@@ -33,10 +34,11 @@
 - Answer
 
 
-  
+---  
 2. 
 - Answer
 
+---
 3.
 
 
@@ -45,8 +47,9 @@
 - Answer
 
 
-  
+---  
 2. 
 - Answer
 
+---
 3.
