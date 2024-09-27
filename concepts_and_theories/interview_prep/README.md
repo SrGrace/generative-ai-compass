@@ -1,7 +1,35 @@
 # Frequently asked Generative AI Interview Questions and their Answers
 
 ## Technical Foundation
-1. **Explain how the self-attention layer works in Transformer models.**
+1. **Describe the backpropagation algorithm.**
+
+- Answer
+
+  Backpropagation is an algorithm used for training neural networks. It involves computing the gradient of the loss function with respect to each weight by the chain rule, iterating backward from the output layer to the input layer. The steps are: feedforward the input to get the output, compute the loss, propagate the error back through the network by calculating the derivative of the loss with respect to each weight, and update the weights using gradient descent.
+
+---
+2. **Explain the Architecture of Transformers.**
+   
+- Answer:
+  Transformers are a neural network architecture that has revolutionized natural language processing. Unlike recurrent neural networks (RNNs) and convolutional neural networks (CNNs), transformers do not process input sequentially. Instead, they rely on a self-attention mechanism to weigh the importance of different parts of the input sequence.
+  
+  Key Components of Transformer Architecture:
+     1. Encoder-Decoder Structure: Encoder that Processes the input sequence and converts it into a meaningful representation. Decoder that Generates the output sequence based on the encoder’s output.
+     2. Self-Attention Mechanism: Calculates the relevance of each word in the input sequence to every other word. Weights are assigned to words based on their importance for predicting the output. This allows the model to capture long-range dependencies in the input sequence.
+     3. Multi-Head Attention: Performs multiple attention calculations simultaneously. Each attention head focuses on different aspects of the input sequence. This improves the model’s ability to capture different patterns in the data.
+     4. Positional Encoding: Since transformers don’t inherently process sequential data, positional encoding is added to provide information about the order of words. This is crucial for tasks like machine translation where word order matters.
+     5. Feed-Forward Neural Network: Applied to each position of the input sequence independently. Introduces non-linearity to the model.
+     6. Layer Normalization: Helps stabilize training by normalizing the inputs to each layer.
+
+   How it Works:
+     1. Input Embedding: The input sequence is converted into word embeddings.
+     2. Positional Encoding: Positional information is added to the word embeddings.
+     3. Encoder: The input embeddings are passed through multiple encoder layers. Each layer consists of self-attention and feed-forward neural network sub-layers.
+     4. Decoder: The decoder generates the output sequence one token at a time. Each decoder layer includes masked self-attention, encoder-decoder attention, and feed-forward neural network sub-layers.
+     5. Output: The final output is generated through a linear layer and softmax function.
+
+---
+3. **Explain how the self-attention layer works in Transformer models.**
    
 - Answer:
   
@@ -20,14 +48,8 @@
       $$sum_{z1} = \sum_{j=1}^{len(seq)} x_{1j}*v_j$$
     
 ---
-2. **Describe the backpropagation algorithm.**
-   
-- Answer
+4. 
 
-  Backpropagation is an algorithm used for training neural networks. It involves computing the gradient of the loss function with respect to each weight by the chain rule, iterating backward from the output layer to the input layer. The steps are: feedforward the input to get the output, compute the loss, propagate the error back through the network by calculating the derivative of the loss with respect to each weight, and update the weights using gradient descent.
-
----
-3.
 
 ## Large Language Models
 1. 
