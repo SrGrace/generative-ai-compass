@@ -53,25 +53,33 @@
 
 ## Large Language Models
 1. 
+
 - Answer
 
 
 ---  
 2. 
+
 - Answer
 
 ---
 3.
+
+- Answer
 
 
 ## Retrieval- Augmented Generation (RAG)
 1. 
+
 - Answer
 
 
 ---  
 2. 
+
 - Answer
 
 ---
 3.
+
+- Answer
