@@ -22,6 +22,7 @@ Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311
   - Video Foundation models' Survey (May 2024): [Foundation Models for Video Understanding: A Survey](https://arxiv.org/pdf/2405.03770)
   - Small Language Models (SLMs) Survey (Sept 2024): [SMALL LANGUAGE MODELS: SURVEY, MEASUREMENTS, AND INSIGHTS](https://arxiv.org/pdf/2409.15790)
   - RAG and Beyond (Sept 2024): [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey](https://arxiv.org/pdf/2409.14924v1)
+  - Contextual Compression in RAG for LLMs (Sept 2024): [Contextual Compression in RAG for LLMs - A Survey](https://arxiv.org/pdf/2409.13385)
   - 
 
 ## Weekly Papers (Best) (*updated at the end of every week)
