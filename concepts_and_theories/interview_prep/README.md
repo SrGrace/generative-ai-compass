@@ -57,7 +57,7 @@
 
 - Answer:
 
-  Large Language Models (LLMs) are sophisticated artificial intelligence systems designed to understand, interpret, and generate human-like text. They are built upon deep learning architectures, primarily the transformer model, and trained on massive amounts of text data. This extensive training enables LLMs to acquire a profound understanding of language patterns, grammar, semantics, and world knowledge. Top LLMs in market right now are — GPT4 or GPT4o-Mini, Meta LLAMA3, Google Gemini, Claude, Mistral or Falcon or many more.
+  Large Language Models (LLMs) are sophisticated artificial intelligence systems designed to understand, interpret, and generate human-like text. They are built upon deep learning architectures, primarily the transformer model, and trained on massive amounts of text data. This extensive training enables LLMs to acquire a profound understanding of language patterns, grammar, semantics, and world knowledge. Top LLMs in market right now are — OpenAI's o1, GPT4 or GPT4o-Mini, Meta's LLAMA3.1, 3.2, Google Gemini, Claude, Mistral, Falcon and many more.
   
   Working: LLMs primarily rely on transformer architecture, a neural network architecture that has revolutionized natural language processing.
   
