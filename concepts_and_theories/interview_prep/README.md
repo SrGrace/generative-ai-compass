@@ -11,6 +11,7 @@
 2. **Explain the Architecture of Transformers.**
    
 - Answer:
+  
   Transformers are a neural network architecture that has revolutionized natural language processing. Unlike recurrent neural networks (RNNs) and convolutional neural networks (CNNs), transformers do not process input sequentially. Instead, they rely on a self-attention mechanism to weigh the importance of different parts of the input sequence.
   
   Key Components of Transformer Architecture:
@@ -51,10 +52,24 @@
 4. 
 
 
-## Large Language Models
-1. 
+## Large Language Models (LLMs)
+1. **What are Large Language Models (LLM) and how do they work?**
 
-- Answer
+- Answer:
+
+  Large Language Models (LLMs) are sophisticated artificial intelligence systems designed to understand, interpret, and generate human-like text. They are built upon deep learning architectures, primarily the transformer model, and trained on massive amounts of text data. This extensive training enables LLMs to acquire a profound understanding of language patterns, grammar, semantics, and world knowledge. Top LLMs in market right now are — GPT4 or GPT4o-Mini, Meta LLAMA3, Google Gemini, Claude, Mistral or Falcon or many more.
+  
+  Working: LLMs primarily rely on transformer architecture, a neural network architecture that has revolutionized natural language processing.
+  
+  Here’s a breakdown of key components:
+  
+  Transformer Architecture:
+    1. Encoder-Decoder Structure: This architecture processes input text (encoding) and generates output text (decoding).
+    2. Self-Attention Mechanism: This allows the model to weigh the importance of different words in a sequence, capturing complex relationships between them.
+    3. Multi-Head Attention: This enhances the model’s ability to focus on different aspects of the input simultaneously.
+    4. Positional Encoding: Since transformers don’t inherently process sequential data, positional encoding adds information about the order of words.
+    5. Pre-training: LLMs undergo a pre-training phase where they learn to predict the next word in a sequence. This unsupervised learning process helps them develop a strong language understanding foundation.
+    6. Fine-tuning: For specific tasks like question answering or text summarization, LLMs are fine-tuned on smaller, task-specific datasets. This process adapts the model to excel at the desired task.
 
 
 ---  
