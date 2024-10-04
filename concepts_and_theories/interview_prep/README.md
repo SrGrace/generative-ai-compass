@@ -73,9 +73,26 @@
 
 
 ---  
-2. 
+2. **What are the differences between LLMs and Traditional Statistical Language Models?**
 
 - Answer
+
+  Large Language Models (LLMs) represent a significant leap forward from traditional statistical language models.
+
+  Let’s explore the key differences:
+  
+  - Traditional Statistical Language Models:
+    1. Based on statistical probabilities: These models rely on calculating the probability of a word occurring given the previous words in a sequence.
+    2. Limited context understanding: They typically have a short-term memory, rely on fixed n-grams and statistical rules, making it difficult to capture long-range dependencies.
+    3. Task-specific: These models are often designed for specific tasks like machine translation or speech recognition.
+    4. Rule-based or probabilistic: They employ rule-based approaches or probabilistic methods for language processing.
+     
+  - Large Language Models (LLMs):
+    1. Deep learning-based: LLMs leverage the power of neural networks, specifically transformer architecture.
+    2. Massive datasets: Trained on vast amounts of text data, allowing them to learn complex language patterns.
+    3. Strong contextual understanding: They can capture long-range dependencies and understand the context of a sentence or paragraph.
+    4. Versatility: LLMs can be adapted to various NLP tasks with minimal fine-tuning.
+    5. Generative capabilities: Beyond understanding language, LLMs can generate human-quality text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
 
 ---
 3.
