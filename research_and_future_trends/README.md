@@ -25,7 +25,7 @@ Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311
   - Contextual Compression in RAG for LLMs (Sept 2024): [Contextual Compression in RAG for LLMs - A Survey](https://arxiv.org/pdf/2409.13385)
   - 
 
-## Weekly Papers (Best) (*updated at the end of every week)
+## Weekly Papers (Best) (*updated every week)
   - September 2024 ([Click here for the month](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md))
     - [Week - 1/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md#week-14)
     - [Week - 2/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md#week-24)
