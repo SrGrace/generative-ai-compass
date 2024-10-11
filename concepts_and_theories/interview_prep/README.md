@@ -95,7 +95,24 @@
     5. Generative capabilities: Beyond understanding language, LLMs can generate human-quality text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
 
 ---
-3.
+3. **How do LLMs handle the Context and Long Term Dependencies?**
+   
+- Answer
+  
+  LLMs are remarkably adept at handling context and long-term dependencies, thanks to their underlying architecture and training methods.
+  
+  - Self-Attention
+    1. Capturing Relationships: The self-attention mechanism in transformers allows the model to weigh the importance of different words in a sequence relative to each other. This enables it to capture intricate relationships between words, even if they are far apart.
+    2. Global Context: Unlike RNNs, which process information sequentially, transformers can process the entire input sequence in parallel, providing a global view of the context.
+       
+  - Positional Encoding: Maintaining Order
+    1. Sequential Information: While self-attention captures relationships, positional encoding provides information about the order of words. This is crucial for tasks like language translation, where word order significantly impacts meaning.
+  
+  - Training on Massive Datasets
+    1. Diverse Exposures: LLMs are trained on vast amounts of text data, exposing them to various language patterns and contexts. This rich experience helps them develop a robust understanding of language nuances.
+
+---
+4.
 
 - Answer
 
