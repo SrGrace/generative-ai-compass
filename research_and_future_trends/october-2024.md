@@ -15,6 +15,9 @@
 ## Week 2/4
 | Title | Summary | Topics |
 | --- | --- | --- |
+| [DIFFERENTIAL TRANSFORMER](https://arxiv.org/pdf/2410.05258) | Differential Transformer (DIFF Transformer) — a new approach from Microsoft Research that rethinks the way attention should work. Instead of adding more attention, it subtracts it! <br><br>With a novel differential attention mechanism, it calculates attention scores by taking the difference between two softmax attention maps. This unique design cancels out irrelevant noise, leading to sharper, sparser focus, much like noise-cancelling headphones.<br><br>🔑 Key Benefits: <br> &nbsp; 🔍 Improved Long-Context Understanding: Handles large contexts with precision, making it ideal for complex text and document analysis. <br> &nbsp; 🎯 Better Key Information Retrieval: Retrieves the right data without getting distracted by irrelevant details. <br> &nbsp; 🚫 Reduced Hallucinations: By filtering out noise, it generates more accurate and reliable answers. <br> &nbsp; 📈 Enhanced In-Context Learning: More robust to input permutations and changes in context order. <br><br> In short, the DIFF Transformer could redefine what it means for models to focus — delivering more trustworthy and context-aware AI. | Transformers |
+| []() |  |  |
+| []() |  |  |
 | []() |  |  |
 | []() |  |  |
 
