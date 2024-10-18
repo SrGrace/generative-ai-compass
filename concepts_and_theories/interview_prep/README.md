@@ -79,7 +79,7 @@
 
   Large Language Models (LLMs) represent a significant leap forward from traditional statistical language models.
 
-  Let’s explore the key differences:
+  Let’s explore the key differences: 
   
   - Traditional Statistical Language Models:
     1. Based on statistical probabilities: These models rely on calculating the probability of a word occurring given the previous words in a sequence.
