@@ -27,7 +27,7 @@
 ## Week 3/4
 | Title | Summary | Topics |
 | --- | --- | --- |
-| []() |  |  |
+| [THINKING LLMS: GENERAL INSTRUCTION FOLLOWING WITH THOUGHT GENERATION](https://arxiv.org/pdf/2410.10630) | 🔑 Key Insights: <br> &nbsp; • LLMs now generate internal thoughts before responding 🤔 <br> &nbsp; • Improved performance across diverse tasks, from marketing to creative writing ✍️ <br> &nbsp; • No additional human data required for training 🙅‍♂️ <br> &nbsp; • Outperforms traditional LLMs on benchmark tests 📈 <br><br> 🍀 Why This Matters: <br> &nbsp; 🔹 Enhanced Reasoning: By encouraging "thinking" before responding, LLMs can tackle complex tasks more effectively. Imagine AI assistants that truly ponder your questions! <br> &nbsp; 🔹 Versatile Applications: This isn't just for math or coding. TPO improves performance in marketing, health advice, and even creative tasks. <br> &nbsp; 🔹 Iterative Learning: An AI "judge" helps optimize responses, allowing the model to continuously improve its thinking process. It's like AI teaching AI to be smarter!  | Prompting |
 | []() |  |  |
 
 
