@@ -8,7 +8,7 @@
   Backpropagation is an algorithm used for training neural networks. It involves computing the gradient of the loss function with respect to each weight by the chain rule, iterating backward from the output layer to the input layer. The steps are: feedforward the input to get the output, compute the loss, propagate the error back through the network by calculating the derivative of the loss with respect to each weight, and update the weights using gradient descent. 
 
 ---
-2. **Explain the Architecture of Transformers.** 
+2. **Explain the Architecture of Transformers.**
    
 - Answer:
   
