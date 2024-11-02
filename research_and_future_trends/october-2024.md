@@ -39,7 +39,7 @@
 ## Week 4/4
 | Title | Summary | Topics |
 | --- | --- | --- |
-| []() |  |  |
+| [1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs](https://arxiv.org/pdf/2410.16144) | This new research proposes BitNet b1.58 and bitnet.cpp - the latest tools from Microsoft Research that achieve 1-bit quantization to deliver faster, energy-efficient, and lossless inference, all while running on a standard CPU.  <br><br> 🌐 Here’s the inside scoop on how they’re making this possible: <br><br> 🔍 What Makes BitNet So Efficient?  <br> &nbsp; 1️⃣ Ultra-Low-Bit Kernels: BitNet’s I2_S, TL1, and TL2 kernels convert model weights into 1.58-bit representations. This reduces memory and bandwidth needs while maintaining full inference accuracy.<br> &nbsp; 2️⃣ Optimized CPU Inference: BitNet models run up to 6.17x faster on x86 CPUs and 5.07x faster on ARM CPUs, showing especially dramatic gains for larger models, such as those with 100B parameters. 📈 <br> &nbsp; 3️⃣ Significant Energy Savings: Achieve up to 82% reduction in energy usage, making it ideal for local, energy-constrained devices like laptops and even edge applications. 🌍⚡ <br><br> 🔥 Performance Highlights: <br> &nbsp; 🔹 2.37x - 6.17x speedup on x86 (Intel i7) CPUs <br> &nbsp; 🔹 1.37x - 5.07x speedup on ARM (Apple M2) CPUs <br> &nbsp; 🔹 Energy consumption down by 55.4% to 82.2% depending on model size and CPU architecture 💡 <br><br> 💡 With bitnet.cpp, even massive LLMs can run locally, reaching human reading speeds on a CPU! Reducing infrastructure demands, unlocking high-efficiency LLM deployment in more accessible, sustainable ways. 🌱 | LLM Enhancement |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
