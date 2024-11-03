@@ -47,6 +47,5 @@
 | [Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval](https://arxiv.org/pdf/2410.23041) | This recent research proposes Emotional RAG bringing a new depth to AI-driven role-playing agents, tapping into an emotional memory retrieval system. <br><br> This framework takes inspiration from psychology’s Mood-Dependent Memory theory 🧠💭, allowing agents to evoke more lifelike, emotionally resonant responses. <br><br> 🔑 Key Insights: <br> &nbsp; 🔹 Memory Retrieval: It retrieves memory based on both semantics and emotional state, ensuring responses feel authentic. <br> &nbsp; 🔹 Enhanced Conversations: In practice, this means AI can provide support, empathy, or enthusiasm in ways that feel genuinely human. <br> &nbsp; 🔹 Real-world Potential: Whether in customer service, tourism, or even interactive storytelling, this emotional layer has massive potential to enrich user experiences 🌐💬. <br><br> 📈 Results? <br> &nbsp; 🔹 Significant improvements across personality-alignment metrics and datasets, showing how this approach can maintain consistent, human-like traits in AI responses.  | RAG |
 | []() |  |  |
 | []() |  |  |
-| []() |  |  |
-| []() |  |  |
+
 
