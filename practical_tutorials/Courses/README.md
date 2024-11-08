@@ -141,7 +141,8 @@
       - Configure an open-source supervised tuning pipeline and then execute that pipeline to train and then deploy a tuned LLM.
       - Output and study safety scores to responsibly monitor and filter your LLM application’s behavior.
       - Try out the tuned and deployed LLM yourself in the classroom!
-      - Tools used BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud. 
+      - Tools used BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud.
+      - 
 
 
 
