@@ -9,7 +9,8 @@
 | [Multi-expert Prompting Improves Reliability, Safety and Usefulness of Large Language Models](https://arxiv.org/pdf/2411.00492) | This new study introduces Multi-Expert Prompting - an approach that simulates multiple expert perspectives to improve the quality of LLM responses. <br> <br> 🆕 What's new? <br> &nbsp; 🔹 Instead of relying on a single "expert," this technique generates multiple expert viewpoints on a topic, simulating a panel of specialists.  <br> &nbsp; 🔹 By integrating their insights and selecting the most comprehensive response, this method avoids biases and broadens the scope of the answers. <br> &nbsp; 🔹 The process is inspired by decision-making models, ensuring that each "expert" has a unique, valuable perspective. <br> <br> 🔑 Some key highlights: <br> &nbsp; ✅ Outperforms SOTA methods by up to 8.69% on truthfulness benchmarks  <br> &nbsp; ✅ Completely eliminates toxic content and reduces hurtfulness  <br> &nbsp; ✅ Generates 75% more informative and 76.5% more useful responses compared to leading baselines  <br> &nbsp; ✅ Maintains transparency and explainability through a 7-step aggregation process | Prompting |
 | []() |  |  |
 | []() |  |  |
-
+| []() |  |  |
+| []() |  |  |
 
 
 ## Week 2/4
