@@ -91,7 +91,9 @@
          - A coding agent with human-in-loop
          - A custom group chat with multiple agents
 
-2. [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) by DeepLearning.AI
+2. [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://learn.deeplearning.ai/courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai) by DeepLearning.AI
+
+3. [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) by DeepLearning.AI
    - Course duration - 1 hrs
    - Difficulty level - 2.5/5
    - Learning Objective
@@ -110,7 +112,7 @@
          - Plan and execute events
          - Perform financial analysis
 
-3. [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) by DeepLearning.AI
+4. [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) by DeepLearning.AI
    - Course duration - 1 hrs
    - Difficulty level - 3.5/5
    - Learning Objective
@@ -121,7 +123,7 @@
       - Applications
          - Develop an agent for essay writing
        
-4. [Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/) by DeepLearning.AI
+5. [Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/) by DeepLearning.AI
    - Course duration - 1 hrs
    - Difficulty level - 3.5/5
    - Learning Objective
