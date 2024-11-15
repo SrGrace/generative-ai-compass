@@ -8,7 +8,7 @@
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
 - 
 
-## Agenti AI Tutorials
+## Agentic AI Tutorials
 - [Agentic AI](https://github.com/SrGrace/AgenticAI) by SrGrace
 - 
 
