@@ -16,6 +16,8 @@
 ## Week 2/4
 | Title | Summary | Topics |
 | --- | --- | --- |
+| [Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?](https://arxiv.org/pdf/2411.05775) |  |  |
+| [LLMs as Method Actors: A Model for Prompt Engineering and Architecture](https://arxiv.org/pdf/2411.05778) | This recent study introduces the “Method Actors” approach for improving how LLMs process complex reasoning tasks.  <br> <br> By treating prompts as scripts and AI responses as performances, this approach brings an interesting perspective to prompt engineering!  <br> <br> 🌐 Here’s a glimpse of the findings: <br> <br> 🧩 Task Focus: The study tested the method on "Connections" puzzles, a word association game by The New York Times, known for challenging AI with its need for nuanced reasoning. <br> <br> 🚀 Results: <br> &nbsp;🔹 Traditional Approaches: Standard methods, like “Chain of Thought,” allowed models like GPT-4o to solve up to 41% of puzzles. <br> &nbsp;🔹 Method Actors Model: By setting up AI to "perform" as a puzzle solver, it achieved 86% success, even outperforming many human participants. <br> &nbsp;🔹 OpenAI’s o1-preview Model: With this technique, o1-preview achieved a nearly perfect 99% accuracy when tasked to “act” through the puzzle-solving process. 🫡  <br> <br> ✨ Beyond puzzles, the method actor model might inspire new ways to enhance AI’s capabilities in fields requiring contextual understanding - imagine AI “playing the role” of a helpful teacher, empathetic listener, or legal assistant. | Prompting |
 | []() |  |  |
 | []() |  |  |
 
