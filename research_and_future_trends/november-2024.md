@@ -30,6 +30,9 @@
 ## Week 3/4
 | Title | Summary | Topics |
 | --- | --- | --- |
+| [Search, Verify and Feedback: Towards Next Generation Post-training Paradigm of Foundation Models via Verifier Engineering](https://arxiv.org/pdf/2411.11504) | This recent paper introduces "Verifier Engineering", a novel post-training paradigm that shifts the focus from traditional data annotation to automated feedback systems. <br><br> 🔑 This approach integrates three key stages: <br> &nbsp; 1️⃣ Search: Generate diverse candidate outputs. <br> &nbsp; 2️⃣ Verify: Use multiple automated verifiers (e.g., rule-based systems, LLMs, or tools like calculators) to evaluate these outputs. <br> &nbsp; 3️⃣ Feedback: Refine the model based on these evaluations using methods like reinforcement learning or inference adjustments. <br><br> 🔍 Why is this important? <br> &nbsp; 🔹 It goes beyond the limitations of data-heavy approaches like RLHF by combining insights from multiple verification sources. <br> &nbsp; 🔹 Enables iterative learning, where feedback loops systematically improve performance. <br> &nbsp; 🔹 Targets a pathway to Artificial General Intelligence by focusing on adaptability, reasoning, and generalization. <br><br> 🔥 Imagine AI that learns not just from human inputs but also from autonomous critiques and refinements! This methodology could redefine the scalability and robustness of AI models. | LLMs Supervision |
+| []() |  |  |
+| []() |  |  |
 | []() |  |  |
 | []() |  |  |
 
