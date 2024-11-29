@@ -23,3 +23,6 @@
 - [Parlance Labs - Educational Resources](https://parlance-labs.com/education/) by parlance labs
   - Hear from practitioners on a wide range of topics on LLMs, including RAG, evaluation, applications, fine-tuning and prompt engineering.
 -  
+
+## LLMs
+- [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts) by Maarten Grootendorst
