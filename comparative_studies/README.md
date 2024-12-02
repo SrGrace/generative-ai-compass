@@ -1,4 +1,4 @@
-# 📊 Comparisons of popular generative AI models, tecnhiques and frameworks 
+# 📊 Comparisons of popular generative AI models, tecnhiques and frameworks
 
 ## 1. Retrieval-Augmented Generation (RAG)
 ### LangChain vs LlamaIndex for RAG: A Comparison
