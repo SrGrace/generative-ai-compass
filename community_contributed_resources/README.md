@@ -1,4 +1,4 @@
-# 🤝 Community-contributed resources and case studies
+# 🤝 Community-contributed resources and case studies 
 
 ## RAG (Retrieval-Augmented Generation) Tutorials
 - [RAG From Scratch](https://github.com/langchain-ai/rag-from-scratch) by LangChain
