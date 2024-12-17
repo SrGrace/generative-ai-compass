@@ -26,4 +26,5 @@
 
 ## LLMs
 - [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts) by Maarten Grootendorst
+- [🗣️ Large Language Model Course](https://github.com/mlabonne/llm-course) by Maxime Labonne & Pietro Monticone
 - 
