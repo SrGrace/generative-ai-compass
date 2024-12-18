@@ -12,7 +12,7 @@
 ## Week 2/4
 | Title | Summary | Topics |
 | --- | --- | --- |
-| []() |  |  |
+| [PROCESSBENCH: Identifying Process Errors in Mathematical Reasoning](https://arxiv.org/pdf/2412.06559) | This recent research proposes PROCESSBENCH, a novel benchmark designed to test AI's ability to catch its own errors in mathematical reasoning. 🧠✨ <br><br> 📊 Key Highlights:<br> &nbsp; 1️⃣ Challenging Problems: It includes 3,400 test cases with competition-level math problems, pushing AI to its limits.<br> &nbsp; 2️⃣ Error Focus: Instead of just checking the final answer, it zeroes in on step-by-step accuracy, a critical factor for real-world applications like education and programming.<br> &nbsp; 3️⃣ Battle of Models: Open-source models like QwQ-32B are catching up with proprietary giants like GPT-4, but there's still room for improvement in error detection and critique. <br><br> With advancements like these, we’re moving toward scalable oversight - AI systems that can not only solve problems but also identify where they went wrong. This is crucial for building reliable AI solutions in areas requiring precision, such as healthcare and engineering. | Reasoning Benchmark |
 | []() |  |  |
 
 
