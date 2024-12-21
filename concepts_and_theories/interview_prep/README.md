@@ -1,7 +1,7 @@
 # Frequently asked Generative AI Interview Questions and their Answers
 
 ## Technical Foundation
-1. **Describe the backpropagation algorithm.**
+1. **Describe the backpropagation algorithm.** 
 
 - Answer
 
