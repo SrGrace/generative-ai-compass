@@ -24,7 +24,7 @@
 ## Week 3/4
 | Title | Summary | Topics |
 | --- | --- | --- |
-| []() |  |  |
+| [LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation](https://arxiv.org/pdf/2412.09237) | LLMs have taken centre stage in building intelligent AI agents, but most existing systems are limited to a few agents, and only in text-based environments.  <br><br> This research introduces LMAgent - a large-scale multimodal society of 10,000+ AI agents that interact through rich, multimodal channels like text and images! 🌐 <br><br> 📦 What can LMAgent do? <br>In an e-commerce sandbox, LMAgent agents can shop, chat, browse, and even live-stream! They simulate realistic human behaviours such as:<br> &nbsp;🔹 Making autonomous decisions (e.g., browsing or buying products).<br> &nbsp;🔹 Exhibiting herd behaviours like group purchasing trends.<br> &nbsp;🔹 Mimicking social influence dynamics, such as how recommendations or peer reviews impact buying decisions. <br><br> 💡 How does it work? <br> &nbsp;1️⃣ Fast Memory Mechanism 🧠: By categorizing memory into short-term and long-term, agents compress and manage their experiences efficiently, improving performance while saving 40% of computational costs.<br> &nbsp; 2️⃣ Self-consistency Prompting 🗣️: This ensures agents make rational decisions by combining internal persona traits with external environmental data.<br> &nbsp; 3️⃣ Small-world Networks 🌍: Inspired by real-world social networks, this design enables faster communication between agents, mimicking how humans connect and influence each other. | Agents |
 | []() |  |  |
 
 
