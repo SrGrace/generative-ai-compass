@@ -1,6 +1,6 @@
 # 🤝 Community-contributed resources and case studies
 
-## RAG (Retrieval-Augmented Generation) Tutorials
+## RAG (Retrieval-Augmented Generation)
 - [RAG From Scratch](https://github.com/langchain-ai/rag-from-scratch) by LangChain
 - [LLM Applications for production](https://github.com/ray-project/llm-applications/tree/main) by ray-project
 - [LLM tutorials](https://github.com/ollama/ollama/tree/main/examples) by Ollama
@@ -8,11 +8,12 @@
 - [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
 - 
 
-## Agentic AI Tutorials
+## Agentic AI
 - [Agentic AI](https://github.com/SrGrace/AgenticAI) by SrGrace
+- [Agents](https://www.kaggle.com/whitepaper-agents) by Google
 - 
 
-## Fine-Tuning Tutorials
+## Fine-Tuning
 - [PEFT example notebooks](https://github.com/huggingface/peft/tree/main/examples) by Huggingface
 - [LLM Fine-tuning tutorials](https://github.com/ashishpatel26/LLM-Finetuning) by ashishpatel26
 - 
