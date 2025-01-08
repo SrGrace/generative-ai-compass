@@ -16,7 +16,7 @@
 ## Fine-Tuning
 - [PEFT example notebooks](https://github.com/huggingface/peft/tree/main/examples) by Huggingface
 - [LLM Fine-tuning tutorials](https://github.com/ashishpatel26/LLM-Finetuning) by ashishpatel26
-- [Fine-tune Llama 3.1 Ultra-Efficiently with Unsloth](https://huggingface.co/blog/mlabonne/sft-llama3) by Maxime Labonne on :hugging_face:
+- [Fine-tune Llama 3.1 Ultra-Efficiently with Unsloth](https://huggingface.co/blog/mlabonne/sft-llama3) by Maxime Labonne on 🤗
 - 
 
 ## Comprehensive LLM Code Repositories
