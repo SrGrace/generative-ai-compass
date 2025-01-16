@@ -26,6 +26,7 @@ Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311
 
 ## Governance
   - AI Agents: [Governing AI Agents](https://arxiv.org/pdf/2501.07913)
+  - 
 
 ## Weekly Papers (Best) (*updated every week)
   - September 2024 ([Click here for the month](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/september-2024.md))
