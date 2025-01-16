@@ -25,7 +25,7 @@ Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311
   - Contextual Compression in RAG for LLMs (Sept 2024): [Contextual Compression in RAG for LLMs - A Survey](https://arxiv.org/pdf/2409.13385)
 
 ## Governance
-  - AI Agents: [Governing AI Agents](https://arxiv.org/pdf/2501.07913)
+  - AI Agents (Jan 2024): [Governing AI Agents](https://arxiv.org/pdf/2501.07913)
   - 
 
 ## Weekly Papers (Best) (*updated every week)
