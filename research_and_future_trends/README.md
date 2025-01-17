@@ -3,7 +3,7 @@
 ## Technology 
   - RAG: [RAG (Retrieval-Augmented Generation)](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/rag_papers.md)
   - AI Agents: [Agentic AI](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/agentic_ai_papers.md)
-  - 
+  - LLM Book: [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
 
 ## Survey Papers (updated - Sept 2024)
   - Foundation models, datasets, benchmarks, challenges & future directions (Feb 2024): [Large Language Models: A Survey](https://arxiv.org/pdf/2402.06196)
