@@ -25,7 +25,7 @@
 ## Week 3/4
 | Title | Summary | Topics |
 | --- | --- | --- |
-| []() |  |  |
+| [Evolving Deeper LLM Thinking](https://arxiv.org/pdf/2501.09891) | This recent paper by researchers at Google DeepMind proposes a new approach - "Mind Evolution". It takes LLMs beyond static reasoning to achieve dynamic, iterative problem-solving. <br><br> Here’s a quick dive into what makes it worth a while: <br><br> 🌟 Inspired by Nature: <br>The method applies genetic algorithms - concepts of evolution like selection, crossover, and mutation to refine solutions iteratively. Think of it as AI brainstorming, improving its responses generation by generation. 🤔  <br><br> ⚙️ How It Works: <br> &nbsp;  🔹 Starts with diverse solution candidates for a problem. <br> &nbsp;  🔹 Uses an LLM to recombine and refine them, guided by feedback from an evaluator. <br> &nbsp;  🔹 Continues refining until it reaches the optimal answer or hits compute limits. <br><br> 📈 Performance Gains: <br> &nbsp;  🔹 Achieved 95.6% success in the TravelPlanner benchmark, compared to 55.6% using traditional Best-of-N strategies. <br> &nbsp;  🔹 Tackled natural language planning challenges like trip planning, meeting scheduling, and even creative tasks like embedding hidden messages in poetry! <br><br> 💡 Unlike conventional methods, Mind Evolution thrives in unstructured, natural language spaces, making it ingenious for tasks where formal problem-solving frameworks don’t exist - like planning complex travel itineraries, crafting poetic steganography etc. | LLM Reasoning |
 | []() |  |  |
 | []() |  |  |
 
