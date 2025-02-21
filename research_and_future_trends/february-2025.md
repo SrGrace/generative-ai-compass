@@ -14,7 +14,7 @@
 | --- | --- | --- |
 | [LLMs can be easily Confused by Instructional Distractions](https://www.arxiv.org/pdf/2502.04362) | LLMs are great at following instructions, right? <br><br> But here’s the catch - what happens when the input itself looks like an instruction? 🤔  <br><br> This recent paper proposes DIM-Bench, a new benchmark designed to test this issue, called instructional distraction. <br><br> .. <br><br> 🧐 Here’s the problem: <br> &nbsp; 👉 LLMs are good at tasks like translation or rewriting, but when the input mimics an instruction (e.g., “solve this math problem”), they often get confused. <br> &nbsp; 👉 Instead of following the main instruction, they end up addressing the distracting input, even when both are clearly separated. <br><br> DIM-Bench evaluates how well LLMs handle this across 20 task combinations. <br><br> .. <br><br> And the results? <br> &nbsp; 👉 Models like GPT-4o and Llama-3.1-70B struggle. For example: <br> &nbsp; &nbsp;  -> In translation tasks, accuracy is 52.6%, but drops to 5.1% when paired with question-answering distractions. <br> &nbsp; &nbsp;  -> For rewriting + math problems, models often skip rewriting entirely and solve the math instead. <br> &nbsp; 👉 Prompting techniques like Chain-of-Thought reasoning help slightly, but none fully solve the issue. | LLMs Instruction following |
 | []() |  |  |
-
+| []() |  |  |
 
 
 ## Week 3/4
