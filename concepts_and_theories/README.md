@@ -138,6 +138,7 @@
 
 - Controllable Generation
   - [Plug and Play Language Models: A Simple Approach to Controlled Text Generation](https://arxiv.org/abs/1912.02164)
+  - 
 
 - Energy Efficiency in Generation
   - [Green AI](https://arxiv.org/abs/1907.10597)
