@@ -1,1 +1,1 @@
-# 🛠️ Practical tutorials and hands-on examples with Resources
+# 🛠️ Practical tutorials and hands-on examples with Resources 
