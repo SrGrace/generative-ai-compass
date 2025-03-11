@@ -36,30 +36,40 @@ Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311
     | --- | --- | --- | --- |
 
   - October 2024 ([Click here for the month](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/october-2024.md))
-    - [Week - 1/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/october-2024.md#week-14)
+    |  |  |  |  |
+    | --- | --- | --- | --- |
+    - 
     - [Week - 2/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/october-2024.md#week-24) 
     - [Week - 3/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/october-2024.md#week-34)
     - [Week - 4/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/october-2024.md#week-44)
   - November 2024 ([Click here for the month](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/november-2024.md))
+    |  |  |  |  |
+    | --- | --- | --- | --- |
     - [Week - 1/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/november-2024.md#week-14)
     - [Week - 2/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/november-2024.md#week-24) 
     - [Week - 3/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/november-2024.md#week-34)
     - [Week - 4/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/november-2024.md#week-44)
   - December 2024 ([Click here for the month](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/december-2024.md))
+    |  |  |  |  |
+    | --- | --- | --- | --- |
     - [Week - 1/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/december-2024.md#week-14)
     - [Week - 2/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/december-2024.md#week-24) 
     - [Week - 3/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/december-2024.md#week-34)
     - [Week - 4/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/december-2024.md#week-44)
   - January 2025 ([Click here for the month](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/january-2025.md))
+    |  |  |  |  |
+    | --- | --- | --- | --- |
     - [Week - 1/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/january-2025.md#week-14)
     - [Week - 2/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/january-2025.md#week-24) 
     - [Week - 3/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/january-2025.md#week-34)
     - [Week - 4/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/january-2025.md#week-44)
   - February 2025 ([Click here for the month](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/february-2025.md))
+    |  |  |  |  |
+    | --- | --- | --- | --- |
     - [Week - 1/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/february-2025.md#week-14)
     - [Week - 2/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/february-2025.md#week-24) 
     - [Week - 3/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/february-2025.md#week-34)
     - [Week - 4/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/february-2025.md#week-44)
-  - 
+  - March 2025 ([Click here for the month](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/march-2025.md))
       
 
