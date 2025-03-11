@@ -24,6 +24,7 @@ Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311
   - Small Language Models (SLMs) Survey (Sept 2024): [SMALL LANGUAGE MODELS: SURVEY, MEASUREMENTS, AND INSIGHTS](https://arxiv.org/pdf/2409.15790)
   - RAG and Beyond (Sept 2024): [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey](https://arxiv.org/pdf/2409.14924v1)
   - Contextual Compression in RAG for LLMs (Sept 2024): [Contextual Compression in RAG for LLMs - A Survey](https://arxiv.org/pdf/2409.13385)
+  - LLM Post-Training (Feb 2025): [LLM Post-Training: A Deep Dive into Reasoning Large Language Models](https://arxiv.org/pdf/2502.21321)
   - 
 
 ## Governance
