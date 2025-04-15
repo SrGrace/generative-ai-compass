@@ -30,3 +30,8 @@
 - [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts) by Maarten Grootendorst
 - [🗣️ Large Language Model Course](https://github.com/mlabonne/llm-course) by Maxime Labonne & Pietro Monticone
 - 
+
+## MCP (Model Context Protocol)
+- [Understanding Model Context Protocol (MCP): A Layman’s Guide](https://medium.com/@SrGrace_/understanding-model-context-protocol-mcp-a-laymans-guide-4737aab5fc6b)
+- [Open-Source MCP servers](https://glama.ai/mcp/servers)
+- 
