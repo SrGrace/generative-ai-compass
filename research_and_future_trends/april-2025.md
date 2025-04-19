@@ -12,7 +12,7 @@
 ## Week 2/4
 | Title | Summary | Topics |
 | --- | --- | --- |
-| []() |  |  |
+| [Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning](https://arxiv.org/pdf/2504.03635) | Bigger AI Models ≠ Better Reasoning 🤔 <br><br> This new study reveals a counterintuitive truth: massive language models often underperform on reasoning tasks compared to mid-sized counterparts. Here’s why: <br><br> 🔑  Key Findings: <br> &nbsp; 1/ U-Shaped Performance Curve: Reasoning accuracy drops when models get too big. Overparameterization leads to memorization over genuine reasoning. <br> &nbsp; 2/ Optimal Model Size Exists: Performance peaks at a sweet spot tied to your data’s complexity. Think "Goldilocks zone" for AI. <br> &nbsp; 3/ Graph Search Entropy: A new metric predicts ideal model size. Complexity = 124 extra parameters per 1-bit entropy increase.. Interesting! <br> &nbsp; 4/ Memorization ≠ Reasoning: Big models parrot patterns but struggle to connect unseen dots. <br> &nbsp; 5/ Cost Efficiency: Bigger isn’t better. Smaller, optimized models save compute without sacrificing reasoning. <br> &nbsp; 6/ Data Complexity Rules: Dense knowledge graphs? Prioritize model depth. Sparse data? Scale cautiously. | LLM Reasoning |
 | []() |  |  |
 
 
