@@ -36,5 +36,5 @@
 - [Open-Source MCP servers](https://glama.ai/mcp/servers) by Glama
 
 ## Memory in AI Systems
-- [How AI Remembers: Understanding Memory in Modern AI Systems](https://medium.com/@SrGrace_/how-ai-remembers-understanding-memory-in-modern-ai-systems-ceeffc64fcb3)
+- [How AI Remembers: Understanding Memory in Modern AI Systems](https://medium.com/@SrGrace_/how-ai-remembers-understanding-memory-in-modern-ai-systems-ceeffc64fcb3) by Sourav Verma
 - 
