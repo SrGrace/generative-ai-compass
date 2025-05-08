@@ -68,6 +68,8 @@ Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311
       | [Week - 1/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/may-2025.md#week-14) | [Week - 2/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/may-2025.md#week-24) | [Week - 3/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/may-2025.md#week-34) | [Week - 4/4](https://github.com/SrGrace/generative-ai-compass/blob/main/research_and_future_trends/may-2025.md#week-44) |
     | --- | --- | --- | --- |
 
+  - June 2025 ([Click here for the month]())
+    
   - 
 
       
