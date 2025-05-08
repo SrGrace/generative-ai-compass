@@ -34,6 +34,7 @@
 ## MCP (Model Context Protocol)
 - [Understanding Model Context Protocol (MCP): A Layman’s Guide](https://medium.com/@SrGrace_/understanding-model-context-protocol-mcp-a-laymans-guide-4737aab5fc6b) by Sourav Verma
 - [Open-Source MCP servers](https://glama.ai/mcp/servers) by Glama
+- 
 
 ## Memory in AI Systems
 - [How AI Remembers: Understanding Memory in Modern AI Systems](https://medium.com/@SrGrace_/how-ai-remembers-understanding-memory-in-modern-ai-systems-ceeffc64fcb3) by Sourav Verma
