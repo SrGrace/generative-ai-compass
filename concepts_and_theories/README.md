@@ -1,6 +1,6 @@
 # 📚 Foundational Concepts and Theories behind Generative AI with Resources
 
-## Fundamental Concepts
+## Fundamental Concepts 
 
 - Neural Networks
   - [3Blue1Brown Neural Network Video Series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
