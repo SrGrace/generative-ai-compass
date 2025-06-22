@@ -8,7 +8,7 @@
 - Deep Learning
   - [Deep Learning Book by Goodfellow, Bengio, and Courville](https://www.deeplearningbook.org/)
 
-- Unsupervised Learning
+- Unsupervised Learning 
   - [Stanford CS229 Lecture on Unsupervised Learning](https://www.youtube.com/watch?v=QvuQH4_05LI)
 
 - Representation Learning
