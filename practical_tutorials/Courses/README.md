@@ -144,7 +144,7 @@
       - Output and study safety scores to responsibly monitor and filter your LLM application’s behavior.
       - Try out the tuned and deployed LLM yourself in the classroom!
       - Tools used BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud.
-      - 
+      -  
 
 2.
 
