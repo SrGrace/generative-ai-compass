@@ -136,7 +136,7 @@
 ### Miscellaneous
 1. [LLMOps](https://www.deeplearning.ai/short-courses/llmops/) by DeepLearning.AI
    - Course duration - 1 hrs
-   - Difficulty level - 2.5/5
+   - Difficulty level - 2.5/5 
    - Learning Objective
       - Retrieve and transform training data for supervised fine-tuning of an LLM.
       - Version your data and tuned models to track your tuning experiments.
