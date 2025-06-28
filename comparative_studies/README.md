@@ -85,7 +85,7 @@ OpenAI's models are accessible through APIs, offering ease of use but limited cu
 - Performance and Capabilities
 OpenAI's models, particularly GPT-4, generally outperform Llama models in complex reasoning tasks and have multimodal capabilities. However, Llama models have shown impressive performance, especially considering their more efficient design.
 
-- Ethical Considerations
+- Ethical Considerations 
 Both raise ethical concerns, but in different ways. OpenAI's closed-source approach raises questions about AI centralization and data privacy. Llama's open-source nature, while promoting transparency, raises concerns about potential misuse.
 
 - Cost and Resources
