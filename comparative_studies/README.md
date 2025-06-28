@@ -18,7 +18,7 @@ LangChain is a comprehensive framework designed to build applications with LLMs.
 - Use Cases:
   - Complex applications requiring multiple LLM-powered components
   - Projects needing fine-grained control over the entire LLM pipeline
-  - Applications integrating various data sources and services
+  - Applications integrating various data sources and services 
 
 #### LlamaIndex
 LlamaIndex (formerly GPT Index) is a data framework specifically designed for building LLM applications over external data.
