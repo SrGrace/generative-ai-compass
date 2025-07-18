@@ -9,3 +9,4 @@
 - 
 
 ## Agents Best Prcatices
+- [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
