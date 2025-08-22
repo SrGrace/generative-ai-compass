@@ -94,6 +94,8 @@
 2. [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://learn.deeplearning.ai/courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai) by DeepLearning.AI
    - Course duration - 3 hrs
    - Difficulty level - 2.5/5
+   - LearnignObjectives
+      - build several practical apps like an automated project planning system, lead-scoring and engagement automation, support data analysis, and content creation at scale.
 
 3. [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) by DeepLearning.AI
    - Course duration - 1 hrs
