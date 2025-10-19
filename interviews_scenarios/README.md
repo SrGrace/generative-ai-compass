@@ -5,7 +5,7 @@
 5. [Our team needs to build RAG over 10 million documents. Which vector database would you recommend and, crucially, why?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/5.md)
 6. [We're building autonomous agents for complex, multi-step reasoning over extended periods. How do you tackle the long-term memory problem beyond just increasing context window size?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/6.md)
 7. [We're serving billions of LLM inference requests daily across various applications. What caching strategies are you thinking about to maximize throughput and minimize latency?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/7.md)
-8. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/8.md)
+8. [We're exploring next-generation AI agents for highly complex, open-ended tasks - think scientific discovery or strategic planning. What architectural paradigms go beyond simple 'plan-and-execute' to enable deep, adaptive reasoning?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/8.md)
 9. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/9.md)
 10. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/10.md)
 
