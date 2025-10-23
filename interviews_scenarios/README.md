@@ -8,7 +8,7 @@
 8. [We're exploring next-generation AI agents for highly complex, open-ended tasks - think scientific discovery or strategic planning. What architectural paradigms go beyond simple 'plan-and-execute' to enable deep, adaptive reasoning?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/8.md)
 9. [Why does chain-of-thought (CoT) reasoning improve LLM performance on complex tasks - but sometimes fails catastrophically?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/9.md)
 10. [How does speculative decoding speed up LLM inference?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/10.md)
-11. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/11.md)
+11. [Why do tool-using agents often hallucinate function calls even when APIs are available?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/11.md)
 12. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/12.md)
 13. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/13.md)
 14. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/14.md)
