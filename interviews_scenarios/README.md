@@ -14,7 +14,7 @@
 14. [Let's say your LLM struggles with financial QA - for example, understanding IFRS accounting rules. Would you fine-tune or prompt-engineer?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/14.md)
 15. [Beyond increasing context window size, what are the most effective architectural and data-centric strategies you'd employ to enable an LLM to effectively reason over gigabytes of domain-specific, unstructured data?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/15.md)
 16. [We want to build an autonomous agent system that can handle complex customer returns involving multiple departments. How would you architect this?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/16.md)
-17. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/17.md)
+17. [We have a 200K token context window. How would you design an application that actually leverages this effectively?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/17.md)
 18. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/18.md)
 19. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/19.md)
 20. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/20.md)
