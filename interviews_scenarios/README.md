@@ -12,7 +12,7 @@
 12. [Why do reflection-based agents degrade over long horizons?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/12.md)
 13. [We're seeing incredible adoption of our new internal LLM-powered assistant, but inference costs are spiraling. How would you approach optimizing the inference pipeline for a model like Llama 3 8B, handling thousands of requests per second?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/13.md)
 14. [Let's say your LLM struggles with financial QA - for example, understanding IFRS accounting rules. Would you fine-tune or prompt-engineer?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/14.md)
-15. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/15.md)
+15. [Beyond increasing context window size, what are the most effective architectural and data-centric strategies you'd employ to enable an LLM to effectively reason over gigabytes of domain-specific, unstructured data?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/15.md)
 16. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/16.md)
 17. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/17.md)
 18. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/18.md)
