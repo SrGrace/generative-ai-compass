@@ -17,7 +17,7 @@
 17. [We have a 200K token context window. How would you design an application that actually leverages this effectively?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/17.md)
 18. [Everyone says tokenization just splits text. What’s really happening?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/18.md)
 19. [We're exploring collaborative multi-agent systems - swarms of LLM-driven agents that negotiate, divide labor, and pursue shared goals. How would you design coordination and control mechanisms to avoid chaos and ensure convergence?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/19.md)
-20. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/20.md)
+20. [A client has a RAG-based system that isn't giving accurate results. After investigation, you find the retrieval system is failing. How would you improve it?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/20.md)
 21. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/21.md)
 22. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/22.md)
 23. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/23.md)
