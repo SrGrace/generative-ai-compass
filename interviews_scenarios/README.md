@@ -19,7 +19,7 @@
 19. [We're exploring collaborative multi-agent systems - swarms of LLM-driven agents that negotiate, divide labor, and pursue shared goals. How would you design coordination and control mechanisms to avoid chaos and ensure convergence?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/19.md)
 20. [A client has a RAG-based system that isn't giving accurate results. After investigation, you find the retrieval system is failing. How would you improve it?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/20.md)
 21. [We need to predict product recommendations across billions of nodes. How do you scale a GNN?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/21.md)
-22. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/22.md)
+22. [Siri operates on-device and relies heavily on understanding user intent from spoken language, often in noisy environments and with diverse accents. Describe how you would design an intent recognition system that is robust, privacy-preserving, and computationally efficient for on-device deployment.](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/22.md)
 23. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/23.md)
 24. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/24.md)
 25. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/25.md)
