@@ -22,7 +22,7 @@
 22. [Siri operates on-device and relies heavily on understanding user intent from spoken language, often in noisy environments and with diverse accents. Describe how you would design an intent recognition system that is robust, privacy-preserving, and computationally efficient for on-device deployment.](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/22.md)
 23. [We want to fine-tune a large language model on domain-specific documents. How would you approach it while avoiding catastrophic forgetting?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/23.md)
 24. [We want to fine-tune an LLM sequentially on multiple domains without losing prior knowledge. How do you prevent catastrophic forgetting?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/24.md)
-25. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/25.md)
+25. [We want an LLM to learn sequential tasks without forgetting previous ones. EWC (Elastic Weight Consolidation) works, but what other strategies would you consider?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/25.md)
 26. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/26.md)
 27. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/27.md)
 28. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/28.md)
