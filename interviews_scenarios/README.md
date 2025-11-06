@@ -26,7 +26,7 @@
 26. [We've explored EWC (Elastic Weight Consolidation) and replay methods for sequential fine-tuning of LLMs. What other strategies would you consider to prevent catastrophic forgetting?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/26.md)
 27. [Your client complains that the LLM keeps losing track of earlier details in a long chat. What's happening?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/27.md)
 28. [Your prompt gives perfect answers during testing - but fails randomly in production. What’s wrong?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/28.md)
-29. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/29.md)
+29. [Your multi-agent system keeps producing conflicting results - one agent summarizes, another contradicts. What's wrong?](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/29.md)
 30. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/30.md)
 31. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/31.md)
 32. [](https://github.com/SrGrace/generative-ai-compass/blob/main/interviews_scenarios/32.md)
